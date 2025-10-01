@@ -16,7 +16,7 @@ A personal bot for the "Fantasy" Discord server.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/exxortq4/Fantasy-Discord-Bot.git](https://github.com/exxortq4/Fantasy-Discord-Bot.git)
+    git clone https://github.com/exxortq4/Fantasy-Discord-Bot.git
     cd Fantasy-Discord-Bot-main
     ```
 
