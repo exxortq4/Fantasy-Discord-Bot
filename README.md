@@ -28,7 +28,6 @@ A personal bot for the "Fantasy" Discord server.
     ```
 
 3.  **Install dependencies:**
-    *(You will need to create a `requirements.txt` file listing all libraries.)*
     ```bash
     pip install -r requirements.txt
     ```
