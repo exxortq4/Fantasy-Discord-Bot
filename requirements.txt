@@ -1,4 +1,4 @@
-discord.py
+pycord
 requests
 pillow
 beautifulsoup4
