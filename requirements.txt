@@ -1,4 +1,5 @@
 py-cord
 requests
+requests
 pillow
 beautifulsoup4
